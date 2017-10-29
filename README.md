@@ -1,2 +1,2 @@
-# fit_data
-Project for Reproducible Research
+# fitness_data
+Project for Reproducible Research - Week 2
